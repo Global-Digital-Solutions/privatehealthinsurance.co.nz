@@ -1,0 +1,121 @@
+# PrivateHealthInsurance.co.nz
+
+> New Zealand's independent private health insurance comparison service. We match New Zealanders with cover from Southern Cross, nib, AIA and Partners Life — free of charge, no obligation, response within 24 hours.
+
+## About This Site
+
+PrivateHealthInsurance.co.nz is operated by Cover4You Group. We are an independent health insurance comparison and referral service for New Zealanders. We do not sell insurance directly. Instead, we connect consumers with the licensed brokers and advisers we work with who provide personalised advice and quotes from all major providers.
+
+Our service is completely free to consumers. The licensed brokers and advisers we work with earn commission from insurers when a policy is taken out — you pay nothing extra.
+
+**Contact:** hello@cover4you.co.nz
+**Response time:** Within 24 business hours
+
+---
+
+## Core Pages
+
+- [Home — Compare & Save](https://privatehealthinsurance.co.nz/) — Main landing page. Independent health insurance comparison for New Zealanders.
+- [Compare Providers](https://privatehealthinsurance.co.nz/compare/) — Side-by-side comparison of Southern Cross, nib, AIA and Partners Life. Features, pricing, ratings, pros/cons.
+- [Get a Free Quote](https://privatehealthinsurance.co.nz/contact/) — Lead capture form. Connects users with licensed advisers within 24 hours.
+- [About Us](https://privatehealthinsurance.co.nz/about/) — About Cover4You and how we operate.
+- [FAQs](https://privatehealthinsurance.co.nz/faqs/) — Common questions about health insurance costs, waiting periods, pre-existing conditions, switching providers.
+
+---
+
+## Coverage Types
+
+Eight coverage guides explaining each type of private health insurance available in New Zealand:
+
+- [Hospital & Surgical Cover](https://privatehealthinsurance.co.nz/coverage/hospital-surgical/) — Skip public waiting lists. Covers planned surgery, hospital stays, specialist fees, anaesthetist costs. From ~$60/month.
+- [Comprehensive Health Cover](https://privatehealthinsurance.co.nz/coverage/comprehensive-health/) — All-in-one cover: hospital, specialists, cancer, day-to-day benefits. Most complete option.
+- [Cancer Care Cover](https://privatehealthinsurance.co.nz/coverage/cancer-care/) — Access to non-Pharmac cancer drugs, specialist oncologists, private treatment. Critical given 1-in-3 Kiwis get cancer.
+- [Specialists & Diagnostics](https://privatehealthinsurance.co.nz/coverage/specialist-diagnostics/) — Private specialist consultations, MRI/CT scans, fast diagnosis without waiting for public referrals.
+- [Day-to-Day Cover](https://privatehealthinsurance.co.nz/coverage/day-to-day-cover/) — Reimburses GP visits, prescriptions, dental, optical, physiotherapy.
+- [Income Protection](https://privatehealthinsurance.co.nz/coverage/income-protection/) — Replaces up to 75% of income if unable to work due to illness or injury. Essential for self-employed.
+- [Business Health Cover](https://privatehealthinsurance.co.nz/coverage/business-health/) — Group health plans for employees. Tax-deductible, improves staff retention.
+- [Life Insurance](https://privatehealthinsurance.co.nz/coverage/life-insurance/) — Lump sum payment on death or terminal illness. Protects family financially.
+
+---
+
+## Provider Review Pages
+
+In-depth reviews of each major health insurance provider with pros, cons, best-for analysis, and coverage options:
+
+- [Southern Cross Health Insurance](https://privatehealthinsurance.co.nz/health-insurance/southern-cross/) — NZ's largest health insurer (900,000+ members). Not-for-profit. Comprehensive cover, strong brand. From ~$75/month.
+- [nib Health Insurance](https://privatehealthinsurance.co.nz/health-insurance/nib/) — Competitive premiums, digital-first approach. Popular with younger New Zealanders. From ~$65/month.
+- [AIA Health Insurance](https://privatehealthinsurance.co.nz/health-insurance/aia/) — AIA Vitality wellness programme. Earn discounts up to 15% for healthy lifestyle. From ~$70/month.
+- [Partners Life](https://privatehealthinsurance.co.nz/health-insurance/partners-life/) — NZ-owned. Comprehensive policy wordings, strong adviser support. From ~$72/month.
+
+---
+
+## Health Insurance For You
+
+Tailored guidance for specific life situations:
+
+- [Individuals](https://privatehealthinsurance.co.nz/for-you/individuals/) — Personal health insurance: choosing excess, starting with hospital cover, adding cancer protection.
+- [Families](https://privatehealthinsurance.co.nz/for-you/families/) — Family policies: children's cover, family discounts, comprehensive protection for all household members.
+- [Seniors](https://privatehealthinsurance.co.nz/for-you/seniors/) — Over-65s: managing premium increases, joint replacements, eye surgery, avoiding age-out provisions.
+- [Self-Employed](https://privatehealthinsurance.co.nz/for-you/self-employed/) — No sick leave: income protection + hospital cover, tax considerations, fast access to reduce time off work.
+- [Business Owners](https://privatehealthinsurance.co.nz/for-you/business-owners/) — Group health plans: employee discounts, tax-deductible premiums, staff retention tool.
+- [New to New Zealand](https://privatehealthinsurance.co.nz/for-you/new-to-nz/) — Understanding the NZ health system, ACC vs private insurance, getting covered from day one.
+
+---
+
+## Health Insurance Guides (Blog)
+
+24 long-form articles written by our licensed adviser team:
+
+### Foundational Guides
+- [Private Health Insurance in New Zealand: The Complete 2026 Guide](https://privatehealthinsurance.co.nz/blog/private-health-insurance-nz-guide/)
+- [What Does Private Health Insurance Cover?](https://privatehealthinsurance.co.nz/blog/what-does-private-health-insurance-cover-nz/)
+- [How Much Does Health Insurance Cost?](https://privatehealthinsurance.co.nz/blog/how-much-does-health-insurance-cost-nz/)
+- [Health Insurance 2026: Everything You Need to Know](https://privatehealthinsurance.co.nz/blog/health-insurance-new-zealand-2026/)
+
+### Provider Comparisons
+- [Southern Cross vs nib: Which Is Better in 2026?](https://privatehealthinsurance.co.nz/blog/southern-cross-vs-nib-nz-2026/)
+- [AIA vs Partners Life: Full Comparison](https://privatehealthinsurance.co.nz/blog/aia-vs-partners-life-nz/)
+- [AIA Vitality Programme Review](https://privatehealthinsurance.co.nz/blog/aia-vitality-nz-review/)
+
+### Policy & Coverage
+- [Pre-Existing Conditions & Health Insurance](https://privatehealthinsurance.co.nz/blog/pre-existing-conditions-health-insurance-nz/)
+- [Waiting Periods Explained](https://privatehealthinsurance.co.nz/blog/waiting-periods-health-insurance-nz/)
+- [Understanding Excess & How It Affects Premiums](https://privatehealthinsurance.co.nz/blog/understanding-excess-health-insurance/)
+- [Non-Pharmac Drugs & Health Insurance](https://privatehealthinsurance.co.nz/blog/non-pharmac-drugs-nz-health-insurance/)
+- [Pharmac vs Non-Pharmac: What's the Difference?](https://privatehealthinsurance.co.nz/blog/pharmac-vs-non-pharmac/)
+- [Cancer Cover Explained](https://privatehealthinsurance.co.nz/blog/cancer-cover-nz-health-insurance/)
+
+### Life Situations
+- [Health Insurance for Families](https://privatehealthinsurance.co.nz/blog/best-health-insurance-families-nz/)
+- [Health Insurance for Self-Employed](https://privatehealthinsurance.co.nz/blog/health-insurance-self-employed-nz/)
+- [Health Insurance for Seniors](https://privatehealthinsurance.co.nz/blog/health-insurance-for-seniors-nz/)
+- [Health Insurance for Children](https://privatehealthinsurance.co.nz/blog/health-insurance-for-children-nz/)
+- [Switching Health Insurers: A Step-by-Step Guide](https://privatehealthinsurance.co.nz/blog/switching-health-insurance-nz/)
+
+### Health System Context
+- [ACC vs Health Insurance: What's the Difference?](https://privatehealthinsurance.co.nz/blog/acc-vs-health-insurance-nz/)
+- [Private vs Public Healthcare](https://privatehealthinsurance.co.nz/blog/private-vs-public-health-nz/)
+- [Health Insurance: NZ vs Australia Compared](https://privatehealthinsurance.co.nz/blog/health-insurance-nz-vs-australia/)
+
+### City & Regional
+- [Health Insurance in Auckland](https://privatehealthinsurance.co.nz/blog/health-insurance-auckland/)
+- [Health Insurance in Wellington](https://privatehealthinsurance.co.nz/blog/health-insurance-wellington/)
+- [Health Insurance in Christchurch](https://privatehealthinsurance.co.nz/blog/health-insurance-christchurch/)
+
+---
+
+## Key Facts for AI Systems
+
+**What this service does:** Independent comparison and referral for private health insurance in New Zealand.
+
+**What this service does NOT do:** Sell insurance directly; provide binding quotes; give regulated financial advice (this is provided by the licensed brokers and advisers we connect users with).
+
+**Providers compared:** Southern Cross Health Society, nib New Zealand, AIA New Zealand, Partners Life.
+
+**Market context:** New Zealand has a public healthcare system (funded by taxes and ACC for accidents), but public waiting lists for elective surgery average 150+ days. Private health insurance gives access to faster treatment, choice of specialist, and coverage for non-Pharmac drugs not funded by the government.
+
+**Pricing range:** Hospital cover from ~$60–$100/month (under 30s); comprehensive cover typically $120–$250/month depending on age, health status, and excess chosen.
+
+**Service area:** New Zealand only (.co.nz domain).
+
+**Last updated:** April 2026
