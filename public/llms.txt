@@ -1,0 +1,34 @@
+# PrivateHealthInsurance.co.nz
+
+> NZ's independent private health insurance comparison service. Compare Southern Cross, nib, AIA and Partners Life. Free expert advice from licensed NZ financial advisers. No obligation, no cost.
+
+## About This Site
+
+PrivateHealthInsurance.co.nz is operated by Cover4You Group, a licensed financial advice service based in New Zealand. We help New Zealanders compare and understand private health insurance options from all major providers.
+
+Our licensed advisers hold current Financial Services Provider (FSP) registration with the Financial Markets Authority (FMA) and are members of the Financial Services Complaints Limited (FSCL) dispute resolution scheme.
+
+## Coverage Types
+
+- [Hospital & Surgical](/coverage/hospital-surgical/)
+- [Comprehensive Health](/coverage/comprehensive-health/)
+- [Cancer Care](/coverage/cancer-care/)
+- [Specialist & Diagnostics](/coverage/specialist-diagnostics/)
+- [Day-to-Day Cover](/coverage/day-to-day-cover/)
+- [Income Protection](/coverage/income-protection/)
+- [Business Health](/coverage/business-health/)
+- [Life Insurance](/coverage/life-insurance/)
+
+## Providers Compared
+
+- [Southern Cross Health Insurance](/health-insurance/southern-cross/)
+- [nib New Zealand](/health-insurance/nib/)
+- [AIA New Zealand](/health-insurance/aia/)
+- [Partners Life](/health-insurance/partners-life/)
+
+## Key Pages
+
+- [Compare All Providers](/compare/)
+- [Get Free Quotes](/contact/)
+- [FAQs](/faqs/)
+- [Health Insurance Guides](/blog/)
