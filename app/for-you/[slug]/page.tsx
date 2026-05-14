@@ -9,8 +9,9 @@ export function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const segment = FOR_YOU_SEGMENTS.find((s) => s.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const segment = FOR_YOU_SEGMENTS.find((s) => s.slug === slug);
   return {
     title: `${segment?.title} Health Insurance | PrivateHealthInsurance.co.nz`,
     description: segment?.desc,
@@ -116,9 +117,10 @@ const segmentContent: Record<string, { title: string; intro: string; keyPoints: 
   },
 };
 
-export default function ForYouPage({ params }: { params: { slug: string } }) {
-  const segment = FOR_YOU_SEGMENTS.find((s) => s.slug === params.slug);
-  const content = segmentContent[params.slug];
+export default async function ForYouPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const segment = FOR_YOU_SEGMENTS.find((s) => s.slug === slug);
+  const content = segmentContent[slug];
 
   if (!segment || !content) {
     return <div className="text-center py-20">Segment not found</div>;

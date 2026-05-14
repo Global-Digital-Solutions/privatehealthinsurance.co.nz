@@ -9,8 +9,9 @@ export function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const provider = PROVIDERS.find((p) => p.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const provider = PROVIDERS.find((p) => p.slug === slug);
   return {
     title: `${provider?.name} Health Insurance | PrivateHealthInsurance.co.nz`,
     description: `Compare ${provider?.name} health insurance with other major NZ providers. See ratings, pricing, features and customer reviews.`,
@@ -110,9 +111,10 @@ const providerDetails: Record<
   },
 };
 
-export default function ProviderPage({ params }: { params: { slug: string } }) {
-  const provider = PROVIDERS.find((p) => p.slug === params.slug);
-  const details = providerDetails[params.slug];
+export default async function ProviderPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const provider = PROVIDERS.find((p) => p.slug === slug);
+  const details = providerDetails[slug];
 
   if (!provider || !details) {
     return <div className="text-center py-20">Provider not found</div>;

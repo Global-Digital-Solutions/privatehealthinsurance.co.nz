@@ -9,16 +9,18 @@ export function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const coverage = COVERAGE_TYPES.find((c) => c.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const coverage = COVERAGE_TYPES.find((c) => c.slug === slug);
   return {
     title: `${coverage?.title} | Private Health Insurance NZ`,
     description: coverage?.shortDesc,
   };
 }
 
-export default function CoveragePage({ params }: { params: { slug: string } }) {
-  const coverage = COVERAGE_TYPES.find((c) => c.slug === params.slug);
+export default async function CoveragePage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const coverage = COVERAGE_TYPES.find((c) => c.slug === slug);
 
   if (!coverage) {
     return <div className="text-center py-20">Coverage not found</div>;
