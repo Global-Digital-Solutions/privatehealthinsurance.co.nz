@@ -4,7 +4,7 @@ export const SITE = {
   tagline: "NZ's Independent Private Health Insurance Comparison",
   description: "Compare private health insurance from all major NZ providers. Southern Cross, nib, AIA, Partners Life compared by licensed advisers. Free quotes within 24 hours.",
   email: "hello@cover4you.co.nz",
-  formCC: "butlerdarin@gmail.com,harper@pulseadvice.co.nz",
+  formCC: "harper@pulseadvice.co.nz",
   formSubject: "New Private Health Insurance Quote Request",
   formNext: "https://privatehealthinsurance.co.nz/thank-you/",
   accentColor: "#0ea5e9",
